@@ -1,1 +1,1 @@
-# wdbp
+# Hello! This repository is for anyone that is in the WDBP discord and looking to get better at programming. Here, you can share files, projects, or anything that relates to programming. Happy coding!
